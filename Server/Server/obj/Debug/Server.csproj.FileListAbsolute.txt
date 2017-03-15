@@ -1,0 +1,9 @@
+D:\БГУИР\GitHub\GitHubKSiS\Lab_2\Server\Server\bin\Debug\Server.exe.config
+D:\БГУИР\GitHub\GitHubKSiS\Lab_2\Server\Server\bin\Debug\Server.exe
+D:\БГУИР\GitHub\GitHubKSiS\Lab_2\Server\Server\bin\Debug\Server.pdb
+D:\БГУИР\GitHub\GitHubKSiS\Lab_2\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\БГУИР\GitHub\GitHubKSiS\Lab_2\Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\БГУИР\GitHub\GitHubKSiS\Lab_2\Server\Server\obj\Debug\Server.Server.resources
+D:\БГУИР\GitHub\GitHubKSiS\Lab_2\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\БГУИР\GitHub\GitHubKSiS\Lab_2\Server\Server\obj\Debug\Server.exe
+D:\БГУИР\GitHub\GitHubKSiS\Lab_2\Server\Server\obj\Debug\Server.pdb

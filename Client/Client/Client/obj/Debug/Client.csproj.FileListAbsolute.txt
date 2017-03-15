@@ -1,0 +1,9 @@
+D:\БГУИР\GitHub\GitHubKSiS\Lab_2\Client\Client\Client\bin\Debug\Client.exe.config
+D:\БГУИР\GitHub\GitHubKSiS\Lab_2\Client\Client\Client\bin\Debug\Client.exe
+D:\БГУИР\GitHub\GitHubKSiS\Lab_2\Client\Client\Client\bin\Debug\Client.pdb
+D:\БГУИР\GitHub\GitHubKSiS\Lab_2\Client\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\БГУИР\GitHub\GitHubKSiS\Lab_2\Client\Client\Client\obj\Debug\Client.Client.resources
+D:\БГУИР\GitHub\GitHubKSiS\Lab_2\Client\Client\Client\obj\Debug\Client.Properties.Resources.resources
+D:\БГУИР\GitHub\GitHubKSiS\Lab_2\Client\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\БГУИР\GitHub\GitHubKSiS\Lab_2\Client\Client\Client\obj\Debug\Client.exe
+D:\БГУИР\GitHub\GitHubKSiS\Lab_2\Client\Client\Client\obj\Debug\Client.pdb
